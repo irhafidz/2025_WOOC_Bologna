@@ -2,7 +2,7 @@
 Submission and additional code, files for 2025 WOOC Bologna
 
     
-# Analysis of the "Entities" Column
+# Analysis of the "Entities" Column (1st 20K rows)
 
 To analyze the "entities" column in the provided CSV data, we focused on extracting meaningful insights from the structured information available. The "entities" column contains JSON-like structures with two main keys: **persons** and **organizations**, which list named entities (people, organizations, etc.) identified in the corresponding tweet or post.
 
